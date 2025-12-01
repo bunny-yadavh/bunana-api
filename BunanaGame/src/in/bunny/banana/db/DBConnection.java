@@ -9,7 +9,7 @@ public class DBConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/banana_api_db";
     private static final String USER = "root";
-    private static final String PASS = "bunny";
+    private static final String PASS = "";
 
     /**
      * Returns a Connection object to the database.
